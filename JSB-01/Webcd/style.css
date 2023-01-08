@@ -1,0 +1,121 @@
+.linkfb{
+    display: inline-block;
+    height: 30%;
+    width: 30%;
+   
+}
+.linkinstra{
+    display: inline;
+    height:40%;
+    width:40%;
+
+}
+.Head{
+    display: inline;
+    height: 50%;
+    width: 50%;
+   
+}
+.header1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.header2{
+    display: inline-block;
+}
+.searchimg{
+    display: inline;
+}
+.Home{
+    display: inline;
+  
+}
+.About{
+    display: inline;
+    
+}
+.Servies{
+    display: inline;
+   
+}
+.Blog{
+    display:inline;
+   
+}
+.Recipes{
+    display: inline;
+    
+}
+.Testimonals{
+    display: inline;
+   
+}
+.Contact{
+    display:inline;
+   
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    position:absolute;
+}
+.Intro{
+    text-align: center;
+    position:absolute;
+}
+.h1{
+    font-size: 60px;
+}
+.p1{
+    font-size: 21px;
+}
+.loginh{
+    text-align: center;
+}
+.buttondiv{
+    padding: 10px;
+    color: blueviolet;
+    display: inline;
+}
+.passworddiv{
+    display: inline;
+}
+.emaildiv{
+    display: inline;
+}
+.Atagdecor{
+    text-decoration:none;
+    color: black;
+}
+.Hey{
+    text-decoration:none;
+    color:green;
+}
+.P2{
+    padding-left: 30px;
+}
+.Footer{
+    background-color:cyan;
+
+}
+.UwU{
+    text-decoration:none;
+    color: green;
+}
+.P2{
+    display: inline;
+}
+.P3{
+    display: inline;
+}
+.Header{
+    position: absolute;
+}
+.Headerbackgroudpic{
+    position:relative;
+    height: 1399,5px;
+    width: 435,98px;
+}
+.ul1{
+    position: absolute;
+}

@@ -1,0 +1,162 @@
+.decortag{
+    text-decoration:none;
+}
+.Non_decor_tag{
+    text-decoration: none;
+}
+.nav1{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(0,0,0,0.45);
+    position: sticky;
+}
+.Header_img{
+    max-width: 100%;
+    max-height: 100%;
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+}
+.ul1_li1{
+    display: inline;
+    position: relative;
+    color:#FFFF;
+}
+.ul1_li2{
+    display: inline;
+    position:relative;
+}
+.ul1_li3{
+    display: inline;
+    position:relative;
+}
+.ul2_li1{
+    display: inline;
+    position:relative;
+}
+.ul2_li2{
+    display: inline;
+    position:relative;
+}
+.ul2_li3{
+    display: inline;
+    position: relative;
+}
+.ul2_li4{
+    display: inline;
+    position: relative;
+}
+.ul2_li5{
+    display: inline;
+    position:relative;
+}
+.ul2_li6{
+    display: inline;
+    position: relative;
+}
+.ul2_li7{
+    display: inline;
+    position: relative;
+}
+.ul2_li8{
+    display:inline;
+    position:relative;
+}
+.div1{
+    padding: 0px;
+    display: flex-inline;
+    justify-content: space-between;
+}
+.header1{
+    margin: 0px;
+    padding:0px;
+}
+.div1{
+    background-color: transparent;
+}
+.body{
+    margin:0px;
+    padding:0px;
+}
+.div2{
+    display:inline-flex;
+    justify-content: space-between;
+}
+.ul1{
+    display: flex-inline;
+    justify-content: space-between;
+}
+.span{
+    color: #FFFF;
+}
+.span1{
+    color:orange;
+}
+.ul4{
+    display: flex-inline;
+    justify-content: space-between;
+
+}
+.div5{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+#div6{
+    position:relative;
+}
+.div7{
+    background-color: white;
+    position:relative;
+    display: block;
+}
+.span2{
+    color: green;
+}
+.just_dot_center{
+    display:inline-block;
+    text-align: left;
+    padding-left: 2.5rem;
+}
+.div8{
+    text-align:center;
+    padding: 2.5rem 3rem;
+    background-color: #fbe2a9;
+}
+.span3{
+    color: white;
+}
+.button1{
+    background-color: green;
+    align-items: center;
+}
+.div9{
+    display:inline;
+    justify-content: space-between;
+}
+.div_thu_bao_nhieu{
+    text-align: center;
+}
+.class_thu_bao_nhieu{
+    margin-bottom: 1.5rem;
+    font-size: 34px;
+}
+.class_thu_bao_nhieu_duoc_dat_roi{
+    font-size: 24px;
+}
+.chac_day_la_class_thu_3_cho_the_p{
+    font-size: 24px;
+}
+.class_nay_khong_phai_class{
+    margin: bottom 30px;
+}
+.li1{
+    font-size: 20px;
+}
+.p3{
+    display: block;
+    width: 100%;
+    position: relative;
+}

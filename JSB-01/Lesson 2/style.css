@@ -1,0 +1,12 @@
+span{
+    font-weight: 700px;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div{
+    height: 200px;
+    width: 200px;
+    background-color: cyan;
+    border: 2px dotted blueviolet;
+}

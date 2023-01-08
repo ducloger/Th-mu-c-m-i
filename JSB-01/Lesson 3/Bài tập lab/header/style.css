@@ -1,0 +1,14 @@
+.text-on{
+   
+    position: relative;
+    height: 50% ;
+    width: 100%;
+    
+}
+.o{
+    position: absolute;
+    left: 33% ;
+    top: 75%;
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,451 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: b;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.decortag{
+    text-decoration:none;
+
+    margin-right: 20px;
+}
+.search-btn{
+     margin-bottom: -10px; 
+}
+.span-decotag{
+    font-size: 26px!important;
+    line-height: 1.5;
+}
+.Non_decor_tag{
+    text-decoration: none;
+}
+.nav1{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(0,0,0,0.45);
+    position: sticky;
+}
+.Header_img{
+    width: 100%;
+    height: 400px;
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+}
+.ul1_li1{
+    display: inline;
+    position: relative;
+    color:#FFFF;
+}
+.ul1_li2{
+    display: inline;
+    position:relative;
+}
+.ul1_li3{
+    display: inline;
+    position:relative;
+}
+.ul2_li1{
+    display: inline;
+    margin-right: 10px;
+
+}
+.ul2_li2{
+    display: inline;
+    position:relative;
+    margin-right: 10px;
+}
+.ul2_li3{
+    display: inline;
+    position: relative;
+    margin-right: 10px;
+}
+.ul2_li4{
+    display: inline;
+    position: relative;
+    margin-right: 10px;
+}
+.ul2_li5{
+    display: inline;
+    position:relative;
+    margin-right: 10px;
+}
+.ul2_li6{
+    display: inline;
+    position: relative;
+    margin-right: 10px;
+}
+.ul2_li7{
+    display: inline;
+    position: relative;
+    margin-right: 10px;
+}
+.ul2_li8{
+    display:inline;
+    position:relative;
+    margin-right: 10px;
+}
+.div1{
+    padding: 0px;
+    display: flex-inline;
+    justify-content: space-between;
+}
+.header1{
+    margin: 0px;
+    padding:0px;
+}
+.div1{
+    background-color: transparent;
+}
+.body{
+    margin:0px;
+    padding:0px;
+}
+.div2{
+    display:inline-flex;
+    justify-content: space-between;
+}
+.ul1{
+    display: flex-inline;
+    justify-content: space-between;
+}
+.span{
+    color: #FFFF;
+}
+.span1{
+    color:orange;
+}
+.ul4{
+    display: flex-inline;
+    justify-content: space-between;
+
+}
+.div5{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.main-paragrap-container{
+    display: flex;
+    /* display: block; */
+    justify-content: center;
+    width: 100%;
+}
+.div7{
+    background-color: white;
+    position:relative;
+    display: block;
+}
+#div6{
+    margin-top: 321px;
+    margin-bottom: 32px;
+}
+.intro-about{
+    display: flex;
+    justify-content: center;
+}
+.intro-about-inside{
+    width: 80%;
+    margin-right: 85px;
+}
+.span2{
+    color: green;
+}
+.just_dot_center{
+    display:inline-block;
+    text-align: left;
+    padding-left: 2.5rem;
+}
+.main-paragrap-item{
+    width: 80%;
+    text-align:center;
+    padding: 2.5rem 3rem;
+    background-color: #fbe2a9;
+    border-radius: 8px;
+}
+.span3{
+    color: white;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 0.8em 1.5em;
+    line-height: 1.2;
+}
+.button1{
+    background-color: #5f9f2d;
+    padding: 0.8em 1.5em;
+    border-color: transparent;
+    border-radius: 0.2em;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.div9{
+    display:inline;
+    justify-content: space-between;
+}
+.span4{
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 0.8em 1.5em;
+    line-height: 1.2;
+}
+.div_thu_bao_nhieu{
+    text-align: center;
+}
+.class_thu_bao_nhieu{
+    margin-bottom: 1.5rem;
+    font-size: 34px;
+}
+.class_thu_bao_nhieu_duoc_dat_roi{
+    font-size: 24px;
+}
+.chac_day_la_class_thu_3_cho_the_p{
+    font-size: 24px;
+}
+.class_nay_khong_phai_class{
+    margin: bottom 30px;
+}
+.li1{
+    font-size: 20px;
+}
+.p3{
+    display: block;
+    width: 100%;
+    position: relative;
+}
+
+.subcribe-bottom-container{
+    background-color: #333333;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left:0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.heading-subcirbe-box{
+    color: #fff;
+
+}
+.form-subcribe-box{ 
+    margin-right: 8.5rem;
+
+
+}
+.input-subcribe{
+    padding: 12px 7.5px!important;
+    margin: 5px 0 5px 6px;
+    background: #fff;
+    border:none;
+    border-radius: 8px;
+}
+.input-subcribe::placeholder{
+    color: #b9d5a3;
+    font-weight: 700;
+    font-size: 15px;
+}
+.button-subribe{
+    font-weight: 700;
+    font-size: 15px;
+    padding: 5px 7.5px!important;
+    cursor: pointer;
+    background: #5f9f2d !important;
+    color: #fff;
+    border-radius: 8px;
+    border:none;
+}
+.up-arrow-subcribe{
+    margin-left: 1.5rem;
+    margin-right: 12px;
+    align-items: flex-end;
+    display: flex;
+    cursor: pointer;
+    margin-bottom: 0;
+    margin-top: 2.5rem;
+    position: relative;
+    font-size: 20px;
+    padding: 5px 15px;
+    color: #fafafa !important;
+    background: #333333 !important;
+    position: relative;
+}
+.button2{
+    padding: 0.8em 1.5em;
+    border-color: transparent;
+    border-radius: 0.2em;
+    font-weight: 400;
+    text-transform: uppercase;
+    background-color:#ffff;
+}
+.subcribe-box-close-button{
+    background-color: inherit;
+    border: none;
+    cursor: pointer;
+}
+.subcribe-box-close{
+    color: #fafafa;
+    font-size: 20px;
+}
+.subcribe-box-open{
+    display: flex;
+    color: #fafafa;
+    font-size: 20px;
+    background-color: #333333;
+    position: fixed;
+}
+.services-introduce-container{
+    background-color: #eeeeee;
+}
+.services-introduce-container-heading{
+    display: flex;
+    justify-content: center;
+}
+.services-introduce-heading{
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 1.4;
+    letter-spacing: 0em;
+}
+.services-introduce-container-collum{
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+}
+.services-introduce-main-box{
+    display: flex;
+    width: 80%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.services-introduce-box{
+    width: 48%;
+    height: 396px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 32px;
+}
+.div-wrap-services-item{
+    margin-top: 46%;
+    margin-left: 16px;
+
+}
+.services-box-heading{
+    margin: 0;
+    line-height: 1.4;
+    font-weight: 400;
+    font-size: 34px;
+    color: #fff;
+}
+
+.services-box-paragraph{
+    line-height: 1.5;
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+}
+.services-introduce-box-heading{
+    
+}
+.services-introduce-box-1{
+    background-image: url("/Img/Healthy-Food-4-Life-Home-Page-Featured-Image-Colorful-Salad.jpg");
+}
+.services-introduce-box-1-heading{
+
+}
+.services-introduce-heading-2{
+    text-align: center;
+}
+.services-introduce-box-1-paragraph{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.4;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.services-introduce-box-2{
+    background-image: url("/Img/Healthy-Food-4-Life-Home-Page-Featured-Image-Colorful-Salad.jpg");
+    
+
+}
+.services-introduce-box-2-heading{
+
+}
+.services-introduce-box-2-paragraph{
+
+}
+.services-introduce-box-3{
+    
+    background-image: url("/Img/Healthy-Food-4-Life-Home-Page-Featured-Image-Colorful-Salad.jpg");
+
+}
+.services-introduce-box-3-heading{
+
+}
+.services-introduce-box-3-paragraph{
+
+}
+.services-introduce-box-4{
+    background-image: url("/Img/Healthy-Food-4-Life-Home-Page-Private-GroceryTour-Updated.jpg");
+
+}
+.services-introduce-box-4-heading{
+
+}
+.services-introduce-box-4-paragraph{
+
+}
+.services-button{
+    flex-wrap: nowrap;
+    display: flex;
+    justify-content: center;
+}
+.services-button-1{
+    margin-top: 32px;
+    margin-bottom: 32px;
+    border: none;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 15px;
+    padding: 16px 32px;
+    cursor: pointer;
+    background: #5f9f2d !important;
+    color: #fff;
+    border-radius: 8px;
+}
+.lol{
+    text-decoration: none;
+    color: #fff;
+}
+.exam-post-box-container{
+    display:flex;
+    flex-wrap: wrap;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: #212121;
+}
+.inside-footer{
+    display: flex;
+    justify-content: space-between;
+    width: fit-content;
+    align-items: center;
+}
+.paragraph-inside{
+    color: #fff;
+}
+.paragraph-2{
+    margin-right: 1.5rem;
+}
+.paragraph-1{
+    margin-left:1.5rem;
+}
+.link-inside-footer{
+    text-decoration: none;
+    color: #5f9f2d;
+}

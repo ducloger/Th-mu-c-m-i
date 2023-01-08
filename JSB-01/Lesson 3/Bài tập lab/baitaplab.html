@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        .container{
+            display: flex;
+        }
+        #Nav{
+            background-color: aqua;
+            height: 800px;
+            width: 200px;
+        }
+
+        #Header{
+            background-color: aquamarine;
+            height: 100px;
+            width: 800px;
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        #div2{
+            display: flex;
+        }
+
+        #Aside{
+            background-color: yellow;
+            height: 750px;
+            width: 200px;
+        }
+        #Article{
+            background-color: yellowgreen;
+            height: 500px;
+            width: 600px;
+            display: flex;
+            flex-wrap: wrap;
+        }
+        #Footer{
+            background-color: cyan;
+            height: 200px;
+            width: 600px;
+            display: flex;
+            flex-wrap: wrap;
+        }
+    </style>
+    <div class="container">
+        <div id="Nav">Nav</div>
+        <div id="div1">
+            <div id="Header">Header</div>
+            <div id="div2">
+                <div>
+                    <div id="Article">Article</div>
+                    <div id="Footer">Footer</div>
+                </div>
+                <div id="Aside">Aside</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

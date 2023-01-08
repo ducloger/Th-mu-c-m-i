@@ -1,0 +1,10 @@
+Một trang web được tạo lên bởi các thẻ html
+Và các thẻ này có dạng hình chữ nhật
+Mô hình này được gọi là box model
+
+
+
+
+
+
+/*Homework:Tạo ra một cái thiệp mời với kiến thức đã học.*/

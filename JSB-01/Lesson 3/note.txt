@@ -1,0 +1,2 @@
+Flex là thẻ dùng để trình bày các thẻ theo chiều ngang
+Muốn dùng được thẻ flex phải có thẻ cha (container) trước các thẻ con
